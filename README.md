@@ -30,7 +30,10 @@ I enjoy engaging in challenging and interesting projects with my persistent atte
 - 💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/baocaifeng/);
 - 💬 I am very happy to help;
+
 <!--
+add kaggle: kaggle.com/caifeng
+
 - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 -->
 - 📫 How to reach me: caifeng.b@gmail.com;

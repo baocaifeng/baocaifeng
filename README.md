@@ -4,7 +4,7 @@
 
 <!-- social networks -->
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baocaifeng/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baocaifeng/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://baocaifeng.github.io/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baocaifeng.baocaifeng)
 <!--
@@ -17,7 +17,31 @@
 <!-- vistitors
 ### Glad to see you here! &nbsp; ![gg](https://visitor-badge.glitch.me/badge?page_id=baocaifeng.baocaifeng)
 -->
-Welcome to my Github Profile ! You are the 
+Welcome to my Github Profile !
+I am a data engineer and software engineer. I love programming, writing, and traveling.
+I enjoy engaging in challenging and interesting projects with my persistent attention and unequivocal love !
+
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/baocaifeng/);
+- 💬 I am very happy to help;
+<!--
+- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+-->
+- 📫 How to reach me: caifeng.b@gmail.com;
+
+<!--
+- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+-->
+</br>
+
+
+
 <!--
 **baocaifeng/baocaifeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

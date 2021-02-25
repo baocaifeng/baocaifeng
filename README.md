@@ -1,4 +1,4 @@
-### Hi thereb! I'm <a href="https://baocaifeng.github.io" target="_blank">Caifeng BAO</a> 👋
+### Hi there ! I'm <a href="https://baocaifeng.github.io" target="_blank">Caifeng BAO</a> 👋
 
 
 <!-- social networks -->
@@ -12,6 +12,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 -->
 
+<!-- vistitors -->
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=baocaifeng.baocaifeng)
 
 <!--
 **baocaifeng/baocaifeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
